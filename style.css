@@ -1,9 +1,9 @@
 .container{
 	text-align: center;
 	font-family: 'Noto Sans JP', sans-serif;
-	font color="white";
+	font-color="white";
 }
 .body{
         background-image: url(https://gamebomb.ru/files/galleries/001/1/15/368230.jpg);
-	width: 150%;
+	width: 100%;
 }
