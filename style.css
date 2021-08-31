@@ -1,7 +1,6 @@
 .container{
 	text-align: center;
-	font-family: 'Noto Sans JP', sans-serif;
-	font-color="white";
+	font: normal 100% sans-serif;
 }
 .body{
         background-image: url(https://gamebomb.ru/files/galleries/001/1/15/368230.jpg);
